@@ -566,3 +566,17 @@ details p { margin: .85rem 0 0; color: var(--muted); }
   html { scroll-behavior: auto; }
   *, *::before, *::after { transition: none !important; animation: none !important; }
 }
+
+/* Phone refinements (below 640px): tighter spacing, full-width actions, readable small text */
+@media (max-width: 639px) {
+  .hero { padding: 3rem 0 2.5rem; }
+  .page-hero { padding: 2.5rem 0 2rem; }
+  .hero-actions { flex-direction: column; align-items: stretch; margin-top: 1.5rem; }
+  .hero-actions .btn { width: 100%; justify-content: center; }
+  .eyebrow { font-size: .72rem; letter-spacing: .1em; }
+  .brand span { font-size: .72rem; letter-spacing: .14em; }
+  .tags li { font-size: .88rem; padding: .45rem .8rem; min-height: 36px; display: inline-flex; align-items: center; }
+  .facts span { font-size: .92rem; }
+  .case-body { padding: 1.4rem; }
+  .card .btn-sm, .card > .btn { width: 100%; justify-content: center; }
+}
