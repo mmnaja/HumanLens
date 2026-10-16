@@ -1,0 +1,27 @@
+# HumanLens IT Solutions
+
+> HumanLens IT Solutions is a technology division of HumanLens (Pvt) Ltd, a media and creative services company based in Galle, Sri Lanka. It provides web design and development, mobile and web applications, custom software, database solutions, cloud integration, business intelligence, IT and digital consultation, maintenance and hosting, team augmentation, and training and workshops.
+
+Company registration number: P V 00368572
+Leader: Gihan Lahiru, Head of HumanLens IT Solutions (BSc (Hons) Computer Science and Technology, Uva Wellassa University)
+Address: 3637+W8P, Eliot Rd, Galle 80000, Sri Lanka
+Phone: 077 651 7595 / 071 442 8393
+Email: humanlens.contact@gmail.com
+Business hours: Monday to Friday 9:00 am to 6:00 pm; Saturday 9:00 am to 1:00 pm
+
+## Key pages
+
+- [Home](https://humanlens.lk/): overview of services, selected work and client feedback
+- [About](https://humanlens.lk/about): company background, vision, mission, values, leadership and team structure
+- [Services](https://humanlens.lk/services): descriptions and pricing models for each service, and how the process works
+- [Projects](https://humanlens.lk/projects): case studies of live client projects
+- [Contact](https://humanlens.lk/contact): enquiry form, contact details and frequently asked questions
+
+## Live client projects
+
+- Meiyal Foundation Website: responsive NGO website for a foundation supporting women and children in plantation communities in Sri Lanka. Built with React and Tailwind CSS.
+- Tuition Management Platform: web platform for teachers, students and administrators, with classes, assignments, study materials, payment tracking and admin reporting. Built with React, Node.js, Express and PostgreSQL.
+
+## Pricing
+
+Pricing depends on scope. Models vary by service: project-based fees (web), fixed contracts or subscriptions (mobile and web applications), development fee plus annual licensing (custom software), hourly or package-based (consultation), monthly or annual subscription (maintenance and hosting), and course fees (training). Written quotes are provided before work starts.
